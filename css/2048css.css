@@ -1,0 +1,4 @@
+*{margin:0px;padding:0px;}
+.game_body{margin:auto;width:440px;height:440px;}
+.row{width:100%;height:25%;}
+.cell{width:24%;height:100%;border:1px solid red;/*display:inline-block;margin:0px;padding:0px;*/float:left;font-size:4em;text-align:center;}
